@@ -19,7 +19,7 @@
   <defaultRoles>Role.АдминистраторСистемы</defaultRoles>
   <defaultRoles>Role.ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок</defaultRoles>
   <vendor>Фирма &quot;1С&quot;</vendor>
-  <version>3.1.10.420</version>
+  <version>3.1.10.433</version>
   <updateCatalogAddress>http://downloads.v8.1c.ru/tmplts/</updateCatalogAddress>
   <includeHelpInContents>true</includeHelpInContents>
   <help>
@@ -2598,6 +2598,7 @@
   <constants>Constant.РежимОчисткиФайлов</constants>
   <constants>Constant.СведенияОБлокируемыхОбъектах</constants>
   <constants>Constant.СведенияОбОбновленииИБ</constants>
+  <constants>Constant.СвойстваИсправленийПередОбновлениемИБ</constants>
   <constants>Constant.СервисПереводаТекста</constants>
   <constants>Constant.СинхронизироватьДанныеСПриложениемВИнтернетеПриЗавершенииРаботыПрограммы</constants>
   <constants>Constant.СинхронизироватьДанныеСПриложениемВИнтернетеПриНачалеРаботыПрограммы</constants>
